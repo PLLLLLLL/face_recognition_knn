@@ -2,11 +2,9 @@
 
 see the 'requirments.txt'
 
-.. code:: bash
+run:
 
-    python train.py
+    ''python train.py''
 
 
-.. code:: bash
-
-    python test.py
+    ''python test.py''
