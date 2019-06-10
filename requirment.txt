@@ -1,0 +1,7 @@
+python2
+pillow
+scikit-learn
+cmake
+dlib
+face_recognition
+opencv-python
