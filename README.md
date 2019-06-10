@@ -1,8 +1,12 @@
 # face_recognition_knn
-'''
-python train.py
-'''
 
-'''
-python test.py
-'''
+see the 'requirments.txt'
+
+.. code:: bash
+
+    python train.py
+
+
+.. code:: bash
+
+    python test.py
